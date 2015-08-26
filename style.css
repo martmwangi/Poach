@@ -3,7 +3,34 @@ background-color: cyan;
 
 }
 nav{
-color: gray;
+background-color: grey;    
 text-align: left;   
+
+}
+nav.li{
+background-color: firebrick;
+}
+#Blank{
+height:auto;
+background-color: black;
+}
+li{
+    list-style: none;
+    display: inline;
+    margin: 2px;
+    padding: 5px;
+    height: auto;
+    font-size: 23px;
+        
+}
+#Blank{
+    text-align: center;
+    text-decoration-color: white;
+    font-family: sans-serif;
+    
+}
+a {
+background-color: red;
+    padding: 3px;
 
 }
