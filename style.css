@@ -1,27 +1,31 @@
 body{
-background-color: cyan;
+background-color:brown;
 
 }
 nav{
 background-color: grey;    
-text-align: left;   
+text-align: center;
+height: 80px;
+padding-top: 65px;
+padding-bottom: 0px;
+border-radius: 6px;
+display: block;
 
 }
-nav.li{
-background-color: firebrick;
-}
+
 #Blank{
 height:auto;
 background-color: black;
 }
 li{
     list-style: none;
-    display: inline;
+    display: inline;    
     margin: 2px;
     padding: 5px;
-    height: auto;
+    height: auto;                                            
     font-size: 23px;
-        
+    
+            
 }
 #Blank{
     text-align: center;
@@ -30,7 +34,48 @@ li{
     
 }
 a {
-background-color: red;
+background-color:burlywood;
     padding: 3px;
-
+border-radius: 5px;
+    text-decoration: none;
 }
+a:hover{
+color: cyan;
+}
+footer {
+display: block;
+border-style: none;
+height: auto;
+background-color: cornflowerblue;
+border-radius: 5px;
+}
+footer.li{
+display: block;
+list-style-type: none;
+}
+
+table{
+    padding: 5px 5px 5px 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
