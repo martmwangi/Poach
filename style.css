@@ -33,11 +33,26 @@ li{
     font-family: sans-serif;
     
 }
+section{
+float: left;
+width: auto;
+clear: both;
+color: white;
+font-size: 18px;
+display:inline-flex;
+}
+
+
 #image{
 float: right;
-
+height: auto;
 clear: both;
+padding-left: auto;
+display: inline;
+
 }
+
+
 
 a {
 background-color:burlywood;
@@ -52,7 +67,7 @@ footer {
 display: block;
 border-style: none;
 height: inherit;
-background-color: cornflowerblue;
+background-color:darkkhaki;
 border-radius: 5px;
 font-size: 17px;
 clear: both;
