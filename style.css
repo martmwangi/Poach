@@ -33,6 +33,12 @@ li{
     font-family: sans-serif;
     
 }
+#image{
+float: right;
+
+clear: both;
+}
+
 a {
 background-color:burlywood;
     padding: 3px;
@@ -45,18 +51,28 @@ color: cyan;
 footer {
 display: block;
 border-style: none;
-height: auto;
+height: inherit;
 background-color: cornflowerblue;
 border-radius: 5px;
+font-size: 17px;
+clear: both;
 }
-footer.li{
-display: block;
-list-style-type: none;
+#social{
+float: left;
+padding-left:15px;
+padding-top: 25px;
+
+}
+#post{
+text-align: center;
+padding-top: 30px;
+
+}
+#msge{
+text-align: right;
 }
 
-table{
-    padding: 5px 5px 5px 5px;
-}
+
 
 
 
