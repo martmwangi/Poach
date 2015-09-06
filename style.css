@@ -67,10 +67,11 @@ footer {
 display: block;
 border-style: none;
 height: inherit;
-background-color:darkkhaki;
+background-color:darkslategrey;
 border-radius: 5px;
 font-size: 17px;
 clear: both;
+height: 120px;
 }
 #social{
 float: left;
@@ -85,9 +86,12 @@ padding-top: 30px;
 }
 #msge{
 text-align: right;
+padding-bottom: 20px;
 }
 
-
+table{
+border-color: azure;
+}
 
 
 
