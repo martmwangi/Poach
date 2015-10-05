@@ -1,2 +1,2 @@
 # Poach
-Website showing the current state of poachin here in Kenya
+Website showing the current state of poaching here in Kenya
